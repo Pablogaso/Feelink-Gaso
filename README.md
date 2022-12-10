@@ -16,3 +16,4 @@ Feelink es un e-commerce que comercializa indumentaria, calzado y accesorios par
 El logo de Feelink es el siguiente:
 
 ![Logo Ecommerce Entrega 1](https://user-images.githubusercontent.com/118061755/206872400-bb0dd3f1-be17-4c70-a059-92b5a4019b88.png)
+
