@@ -32,4 +32,5 @@ https://color.adobe.com/es/trends/Fashion
 
 # Logo 
 
-![Logo Ecommerce Entrega 1](https://user-images.githubusercontent.com/118061755/206873583-91dee590-b65e-456c-b2f3-867e03da4738.png)
+![Logo Ecommerce Entrega 1](https://user-images.githubusercontent.com/118061755/207976877-7ec8a0a1-6c96-4428-acd7-77e382857cca.png)
+
